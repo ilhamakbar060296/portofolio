@@ -4,3 +4,4 @@ Anggota :
 
 1. Muhammad Ilham Akbar
 2. Bayuzen Ahmad
+3. Christine Putriyani Saragih
